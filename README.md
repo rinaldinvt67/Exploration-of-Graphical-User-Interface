@@ -19,13 +19,26 @@ Pengguna memilih menu minuman atau makanan dari tab yang tersedia, pesanan masuk
 ---
 
 ## Tampilan Aplikasi
+### Tampilan Menu Tab Minuman
+![Tampilan Menu Tab Minuman](GUI/Screenshot/Screenshot%202026-11-17%20191806.png)
 
-| | |
-|---|---|
-| ![Tampilan Menu Tab Minuman](GUI/Screenshot/Screenshot%202026-11-17%20191806.png) | ![Tampilan Menu Tab Makanan](GUI/Screenshot/Screenshot%202026-11-17%20191817.png) |
-| ![Tampilan Pesanan Masuk](GUI/Screenshot/Screenshot%202026-11-17%20191831.png) | ![Tampilan Tombol Bayar Ditekan](GUI/Screenshot/Screenshot%202026-11-17%20191903.png) |
-| ![Tampilan Klik Kanan Nama Pesanan Untuk Hapus Item](GUI/Screenshot/Screenshot%202026-11-17%20191934.png) | ![Tampilan Handling Pesanan Yang Kosong](GUI/ScreenshotScreenshot%202026-11-18%20070506.png) |
-| ![Tampilan Scrollbar](GUI/Screenshot/Screenshot%202026-11-17%20192120.png) | |
+### Tampilan Menu Tab Makanan
+![Tampilan Menu Tab Makanan](GUI/Screenshot/Screenshot%202026-11-17%20191817.png)
+
+### Tampilan Pesanan Masuk
+![Tampilan Pesanan Masuk](GUI/Screenshot/Screenshot%202026-11-17%20191831.png)
+
+### Tampilan Tombol Bayar Ditekan
+![Tampilan Tombol Bayar Ditekan](GUI/Screenshot/Screenshot%202026-11-17%20191903.png)
+
+### Tampilan Klik Kanan Nama Pesanan Untuk Hapus Item
+![Tampilan Klik Kanan Nama Pesanan Untuk Hapus Item](GUI/Screenshot/Screenshot%202026-11-17%20191934.png)
+
+### Tampilan Handling Pesanan Yang Kosong
+![Tampilan Handling Pesanan Yang Kosong](GUI/Screenshot/Screenshot%202026-11-18%20070506.png)
+
+### Tampilan Scrollbar Pesanan
+![Tampilan Scrollbar](GUI/Screenshot/Screenshot%202026-11-17%20192120.png)
 
 ---
 
